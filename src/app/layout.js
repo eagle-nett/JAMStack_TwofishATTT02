@@ -58,7 +58,7 @@ export default function RootLayout({ children }) {
           </li>
           <li>
             <a
-              href="https://github.com/eagle-nett/ThuatToanMaHoa_Twofish"
+              href="https://github.com/eagle-nett/JAMStack_TwofishATTT02"
               target="_blank" 
               rel="noopener noreferrer" 
               className="block px-4 py-2 text-lg hover:bg-gray-700 focus:outline-none"
